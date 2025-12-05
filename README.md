@@ -1,5 +1,6 @@
 # Lab9Web
-
+**Praktikum 9: PHP Modular**
+<img width="554" height="274" alt="image" src="https://github.com/user-attachments/assets/4e14e214-4733-466c-aa3f-c72b6b7e9477" />
 
 # Latihan Dan Tugas
 **Tampilan dashboard**

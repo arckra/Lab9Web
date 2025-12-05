@@ -1,7 +1,7 @@
 # Lab9Web
 
 
-# Latuhan Dan Tugas
+# Latihan Dan Tugas
 **Tampilan dashboard**
 
 <img width="1102" height="707" alt="image" src="https://github.com/user-attachments/assets/c875b470-088f-4558-b9ca-5824be16b952" />

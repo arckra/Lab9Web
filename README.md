@@ -1,4 +1,12 @@
 # Lab9Web
+
+- **Nama Lengkap** : Ari Cakra Kurniawan
+- **NIM** : 312410248  
+- **Kelas** : TI.24.A2
+- **Mata Kuliah** : Pemrograman Web 1
+
+---
+
 **Praktikum 9: PHP Modular**
 
 <img width="554" height="274" alt="image" src="https://github.com/user-attachments/assets/4e14e214-4733-466c-aa3f-c72b6b7e9477" />
